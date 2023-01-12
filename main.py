@@ -10,6 +10,7 @@ def send_message_inst():
     pywhatkit.sendwhatmsg_instantly(phone_no=mobile, message=message)
 
 
+
 def send_message():
     mobile = input('Введите номер получателя: ')
     # mobile = os.getenv('MOBILE')
@@ -23,7 +24,7 @@ def send_message():
 def main():
     send_message_inst()
     # send_message()
-    pywhatkit.image_to_ascii_art(img_path='1601_oooo.plus.png')
+    # pywhatkit.image_to_ascii_art(img_path='1601_oooo.plus.png')
 
 
 if __name__ == '__main__':
