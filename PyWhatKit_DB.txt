@@ -1,0 +1,30 @@
+Date: 12/1/2023
+Time: 19:52
+Phone Number: +380504731742
+Message: Privet
+--------------------
+Date: 12/1/2023
+Time: 19:56
+Phone Number: +380504731742
+Message: priet whatsapp
+--------------------
+Date: 12/1/2023
+Time: 20:2
+Phone Number: +380504731742
+Message: Класс!!
+--------------------
+Date: 12/1/2023
+Time: 20:6
+Phone Number: +380997264299
+Message: Привет я программа Python просто так общаюсь в WatsApp!! ну как здорово?
+--------------------
+Date: 12/1/2023
+Time: 20:8
+Phone Number: +380997264299
+Message: Еще можно отправлять сообщения по заданному времени! Супер?
+--------------------
+Date: 12/1/2023
+Time: 20:13
+Phone Number: +380504731742
+Message: test foto
+--------------------
