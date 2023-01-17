@@ -17,6 +17,7 @@ def encrypt_file():
 # Збережіть новий PDF у файл
     with open(f"{file_path}", "wb") as f:
         writer.write(f)
+        print("Your file encrypt")
 
 
 def decrypt_file():
@@ -35,6 +36,7 @@ def decrypt_file():
     # Save the new PDF to a file
     with open(f"{file_path}", "wb") as f:
         writer.write(f)
+        print("Your file decrypt")
 
 
 def main():
