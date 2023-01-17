@@ -1,6 +1,4 @@
 import os.path
-
-# pip install PyPDF2
 from PyPDF2 import PdfWriter
 from PyPDF2 import PdfReader
 from PyPDF2.errors import PdfReadError
